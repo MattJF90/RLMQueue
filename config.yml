@@ -1,0 +1,9 @@
+############################
+#                          #
+#  RLMQueue Configuration  #
+#                          #
+############################
+
+
+# Timeout in seconds
+timeout: 90
